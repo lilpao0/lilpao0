@@ -39,11 +39,11 @@ location    : "Vietnam 🇻🇳"
 status      : "Fresher — Full-Stack & Game Dev"
 currently   :
   - "📦 Building: Full-Stack Web Apps (Next.js + NestJS)"
-  - "🎮 Crafting : Unity Game — I$ekr4ft (Rhythm Combat)"
+  - "🎮 Crafting : Unity Game"
   - "🤖 Learning : AI / Large Language Models"
   - "📱 Stacking : Flutter for Mobile"
 looking_for : "Opportunities to learn, ship, and grow"
-fun_fact    : "> console.log('Made with 🍜 and too much caffeine')"
+fun_fact    : "> console.log('Made with too much caffeine and nicotine')"
 ```
 
 ---
@@ -79,70 +79,6 @@ fun_fact    : "> console.log('Made with 🍜 and too much caffeine')"
 ![VS Code](https://img.shields.io/badge/VS_Code-0a0a2a?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14)
 ![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=FF6B35)
 ![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=FF6B35)
-
-</div>
-
----
-
-## `🗂️ FEATURED_PROJECTS.LOG`
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎮 I$ekr4ft</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-IN_DEV-39FF14?style=flat-square&labelColor=0d0d0d" />
-        <img src="https://img.shields.io/badge/ENGINE-Unity-0d0d0d?style=flat-square&logo=unity&logoColor=white" />
-      </p>
-      <p align="center">
-        A <strong>Rhythm-Based Combat</strong> game built in Unity.<br/>
-        Features: Beat-synced attacks, Drone systems, Object Pooling,<br/>
-        Forge/RNG loot economy with Pity Lock mechanics.
-      </p>
-      <p align="center">
-        <code>C#</code> · <code>Unity</code> · <code>ScriptableObjects</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💪 Bodify</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-SHIPPED-39FF14?style=flat-square&labelColor=0d0d0d" />
-        <img src="https://img.shields.io/badge/PLATFORM-Mobile-0d0d0d?style=flat-square&logo=flutter&logoColor=white" />
-      </p>
-      <p align="center">
-        An <strong>AI-Powered Fitness App</strong> with personalized<br/>
-        workout & nutrition plans. Features RevenueCat subscriptions,<br/>
-        AI training generation, and progress tracking.
-      </p>
-      <p align="center">
-        <code>Flutter</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>AI</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## `📊 STATS.EXE`
-
-<div align="center">
-
-<!-- ══════════════════════════════════════════════════════════════════
-     ⚠️  LỖI "Could not fetch": Stats của bạn cần được self-host.
-     👉 Cách fix: Fork repo https://github.com/anuraghazra/github-readme-stats
-         → Deploy lên Vercel của bạn → Đổi domain trong URL bên dưới
-     ══════════════════════════════════════════════════════════════════ -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilpao0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilpao0&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=lilpao0&theme=dark&hide_border=true&background=0D0D0D&stroke=39FF14&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14&sideLabels=39FF14&dates=888888" />
 
 </div>
 
