@@ -131,6 +131,11 @@ fun_fact    : "> console.log('Made with 🍜 and too much caffeine')"
 
 <div align="center">
 
+<!-- ══════════════════════════════════════════════════════════════════
+     ⚠️  LỖI "Could not fetch": Stats của bạn cần được self-host.
+     👉 Cách fix: Fork repo https://github.com/anuraghazra/github-readme-stats
+         → Deploy lên Vercel của bạn → Đổi domain trong URL bên dưới
+     ══════════════════════════════════════════════════════════════════ -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilpao0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilpao0&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9" />
